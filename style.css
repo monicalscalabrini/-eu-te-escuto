@@ -747,6 +747,26 @@ text-align:center;
 margin-bottom:30px;
 }
 
+   @media (max-width: 768px) {
+
+.contato-container{
+display:flex;
+flex-direction:column;
+align-items:center;
+text-align:center;
+padding:40px 20px;
+}
+
+.contato-texto{
+margin-bottom:30px;
+}
+
+.form-box{
+width:100%;
+max-width:400px;
+}
+
+}
 }
 
 } 
