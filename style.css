@@ -543,7 +543,7 @@ margin-bottom:40px;
 
 .cards-profissionais{
 display:grid;
-grid-template-columns:repeat(auto-fit,250px);
+grid-template-columns:repeat(4,1fr);
 justify-content:center;
 gap:40px;
 }
