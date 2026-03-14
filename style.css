@@ -931,3 +931,16 @@ max-width:700px;
 margin:40px auto;
 line-height:1.6;
 }
+html, body{
+height:100%;
+}
+
+body{
+display:flex;
+flex-direction:column;
+min-height:100vh;
+}
+
+footer{
+margin-top:auto;
+}
