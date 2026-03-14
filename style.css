@@ -728,6 +728,15 @@ align-items:center;
 width:90%;
 }
 
+  .contato-container{
+display:flex;
+align-items:center;
+justify-content:space-between;
+gap:60px;
+padding:80px 20px;
+background: linear-gradient(135deg,#f5f7fa,#e9eef5);
+}
+
 } 
 
 
