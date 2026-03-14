@@ -921,3 +921,13 @@ margin:40px auto;
 text-align:center;
 line-height:1.6;
 }
+
+.contato-simples{
+text-align:center;
+}
+
+.contato-texto{
+max-width:700px;
+margin:40px auto;
+line-height:1.6;
+}
