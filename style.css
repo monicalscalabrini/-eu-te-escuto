@@ -874,6 +874,16 @@ box-shadow:0 10px 25px rgba(0,0,0,0.08);
 text-align:center;
 margin-bottom:20px;
 }
+.contato-formulario{
+max-width:700px;
+margin:40px auto;
+background:#f5f5f5;
+padding:30px;
+border-radius:10px;
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+}
+
+
 
 .contato-formulario input,
 .contato-formulario textarea{
