@@ -693,12 +693,6 @@ padding:14px 30px;
 border-radius:8px;
 text-decoration:none;
 font-weight:bold;
-
-.videos-narcisismo{
-display:flex;
-gap:40px;
-justify-content:center;
-margin-top:40px;
 }
 
 .video-card{
