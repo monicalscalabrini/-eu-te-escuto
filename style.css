@@ -812,6 +812,29 @@ text-align:center;
 margin-bottom:40px;
 }
 
+}/* seção contato */
+
+.contato-container{
+display:grid;
+grid-template-columns: 1fr 1fr;
+gap:60px;
+align-items:center;
+padding:80px 20px;
+}
+
+/* responsividade celular */
+
+@media (max-width:768px){
+
+.contato-container{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.contato-texto{
+margin-bottom:40px;
+}
+
 }
 
 
